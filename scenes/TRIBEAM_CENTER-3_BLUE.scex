@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1475620699" name="TRIBEAM CENTER" model="SlimBeam Quad IRC (CH16)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1475620699">
+        <Channel index="10" name="blue#3" value="255"/>
+        <Channel index="14" name="dimmer" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

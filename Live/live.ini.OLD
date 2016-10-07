@@ -432,7 +432,67 @@ nb_buttons = 0
 [page13]
 name = TRI-BEAM
 swap = yes
-nb_buttons = 0
+nb_buttons = 12
+[page13_button1]
+line = 4
+column = 1
+name = TRIBEAM_CENTER-1_AMBER.scex
+title = 1 AMBER
+[page13_button2]
+line = 3
+column = 1
+name = TRIBEAM_CENTER-1_BLUE.scex
+title = 1 Blue
+[page13_button3]
+line = 2
+column = 1
+name = TRIBEAM_CENTER-1_GREEN.scex
+title = 1 Green
+[page13_button4]
+line = 1
+column = 1
+name = TRIBEAM_CENTER-1_RED.scex
+title = 1 Red
+[page13_button5]
+line = 8
+column = 1
+name = TRIBEAM_CENTER-2_AMBER.scex
+title = TRIBEAM_CENTER-2_AMBER
+[page13_button6]
+line = 7
+column = 1
+name = TRIBEAM_CENTER-2_BLUE.scex
+title = TRIBEAM_CENTER-2_BLUE
+[page13_button7]
+line = 6
+column = 1
+name = TRIBEAM_CENTER-2_GREEN.scex
+title = TRIBEAM_CENTER-2_GREEN
+[page13_button8]
+line = 5
+column = 1
+name = TRIBEAM_CENTER-2_RED.scex
+title = TRIBEAM_CENTER-2_RED
+[page13_button9]
+line = 12
+column = 1
+name = TRIBEAM_CENTER-3_AMBER.scex
+title = TRIBEAM_CENTER-3_AMBER
+[page13_button10]
+line = 11
+column = 1
+name = TRIBEAM_CENTER-3_BLUE.scex
+title = TRIBEAM_CENTER-3_BLUE
+[page13_button11]
+line = 10
+column = 1
+name = TRIBEAM_CENTER-3_GREEN.scex
+title = TRIBEAM_CENTER-3_GREEN
+[page13_button12]
+line = 9
+column = 1
+name = TRIBEAM_CENTER-3_RED.scex
+title = TRIBEAM_CENTER-3_RED
 [page14]
 name = UPCASTS LEFT
 swap = yes
