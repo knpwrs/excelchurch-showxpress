@@ -1,12 +1,12 @@
 ﻿
 [Params]
-ActiveTab = 1
+ActiveTab = 0
 MMFilesPath = /Users/kpowers/Desktop/Tracks/
 [live]
 dmx_on = yes
 fade_time = 300
 [page]
-number = 10
+number = 12
 [page1]
 name = BLINDERS
 nb_buttons = 2
@@ -205,6 +205,7 @@ title = YELLOW LEFT-CENTER
 color = 16710400
 [page6]
 name = OTHER MACROS
+swap = yes
 nb_buttons = 1
 [page6_button1]
 line = 1
@@ -319,83 +320,105 @@ name = PILLAR_RIGHT-CENTER_YELLOW_HIGH.scex
 title = YELLOW RIGHT-CENTER
 color = 16710400
 [page9]
-name = UPCASTS
-nb_buttons = 14
-[page9_button1]
+name = TRI-BEAM
+nb_buttons = 0
+[page10]
+name = UPCASTS LEFT
+swap = yes
+nb_buttons = 7
+[page10_button1]
+line = 1
+column = 1
+name = UPCAST_LEFT_AQUA_HIGH.scex
+title = UPCAST LEFT AQUA
+color = 64767
+[page10_button2]
+line = 2
+column = 1
+name = UPCAST_LEFT_BLUE_HIGH.scex
+title = UPCAST LEFT BLUE
+color = 275199
+[page10_button3]
+line = 3
+column = 1
+name = UPCAST_LEFT_GREEN_HIGH.scex
+title = UPCAST LEFT GREEN
+color = 63744
+[page10_button4]
+line = 4
+column = 1
+name = UPCAST_LEFT_PURPLE_HIGH.scex
+title = UPCAST LEFT PURPLE
+color = 9642130
+[page10_button5]
+line = 5
+column = 1
+name = UPCAST_LEFT_RED_HIGH.scex
+title = UPCAST LEFT RED
+color = 16721408
+[page10_button6]
+line = 6
+column = 1
+name = UPCAST_LEFT_WHITE_HIGH.scex
+title = UPCAST LEFT WHITE
+color = 16711679
+[page10_button7]
+line = 7
+column = 1
+name = UPCAST_LEFT_YELLOW_HIGH.scex
+title = UPCAST LEFT YELLOW
+color = 16710400
+[page11]
+name = UPCASTS RIGHT
+swap = yes
+nb_buttons = 7
+[page11_button1]
 line = 1
 column = 1
 name = UPCAST_RIGHT_AQUA_HIGH.scex
 title = UPCAST RIGHT AQUA
-[page9_button2]
+color = 64767
+[page11_button2]
 line = 2
 column = 1
 name = UPCAST_RIGHT_BLUE_HIGH.scex
 title = UPCAST RIGHT BLUE
-[page9_button3]
+color = 275199
+[page11_button3]
 line = 3
 column = 1
 name = UPCAST_RIGHT_GREEN_HIGH.scex
 title = UPCAST RIGHT GREEN
-[page9_button4]
+color = 63744
+[page11_button4]
 line = 4
 column = 1
 name = UPCAST_RIGHT_PURPLE_HIGH.scex
 title = UPCAST RIGHT PURPLE
-[page9_button5]
+color = 9642130
+[page11_button5]
 line = 5
 column = 1
 name = UPCAST_RIGHT_RED_HIGH.scex
 title = UPCAST RIGHT RED
-[page9_button6]
+color = 16721408
+[page11_button6]
 line = 6
 column = 1
 name = UPCAST_RIGHT_WHITE_HIGH.scex
 title = UPCAST RIGHT WHITE
-[page9_button7]
+color = 16711679
+[page11_button7]
 line = 7
 column = 1
 name = UPCAST_RIGHT_YELLOW_HIGH.scex
 title = UPCAST RIGHT YELLOW
-[page9_button8]
-line = 1
-column = 2
-name = UPCAST_LEFT_AQUA_HIGH.scex
-title = UPCAST LEFT AQUA
-[page9_button9]
-line = 2
-column = 2
-name = UPCAST_LEFT_BLUE_HIGH.scex
-title = UPCAST LEFT BLUE
-[page9_button10]
-line = 3
-column = 2
-name = UPCAST_LEFT_GREEN_HIGH.scex
-title = UPCAST LEFT GREEN
-[page9_button11]
-line = 4
-column = 2
-name = UPCAST_LEFT_PURPLE_HIGH.scex
-title = UPCAST LEFT PURPLE
-[page9_button12]
-line = 5
-column = 2
-name = UPCAST_LEFT_RED_HIGH.scex
-title = UPCAST LEFT RED
-[page9_button13]
-line = 6
-column = 2
-name = UPCAST_LEFT_WHITE_HIGH.scex
-title = UPCAST LEFT WHITE
-[page9_button14]
-line = 7
-column = 2
-name = UPCAST_LEFT_YELLOW_HIGH.scex
-title = UPCAST LEFT YELLOW
-[page10]
+color = 16710400
+[page12]
 name = WASHES
 nb_buttons = 0
 [board]
-number = 10
+number = 14
 [board1]
 screen = 0
 page = 7
@@ -410,20 +433,32 @@ screen = 0
 page = 5
 [board5]
 screen = 1
-page = 1
+page = 3
 [board6]
 screen = 1
 page = 3
 [board7]
 screen = 1
-page = 10
+page = 12
 [board8]
 screen = 1
-page = 9
+page = 12
 [board9]
+screen = 1
+page = 11
+[board10]
+screen = 1
+page = 10
+[board11]
+screen = 1
+page = 9
+[board12]
+screen = 1
+page = 1
+[board13]
 screen = 2
 page = 2
-[board10]
+[board14]
 screen = 2
 page = 6
 [screen0]
