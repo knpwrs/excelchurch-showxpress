@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1475620620" name="UPCAST LEFT" model="COLORstrip Mini"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1475620620">
+        <Channel index="0" name="color" value="44"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

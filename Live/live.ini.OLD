@@ -1,12 +1,12 @@
 ﻿
 [Params]
-ActiveTab = 0
+ActiveTab = 1
 MMFilesPath = /Users/kpowers/Desktop/Tracks/
 [live]
 dmx_on = yes
 fade_time = 300
 [page]
-number = 6
+number = 10
 [page1]
 name = BLINDERS
 nb_buttons = 2
@@ -21,114 +21,10 @@ column = 1
 name = BLINDER_RIGHT_HIGH.scex
 title = BLINDER_RIGHT_HIGH
 [page2]
-name = LEFT
+name = COLOR MACROS
 swap = yes
 nb_buttons = 8
 [page2_button1]
-line = 1
-column = 1
-name = PILLAR_LEFT_AQUA_HIGH.scex
-title = AQUA LEFT
-color = 64767
-[page2_button2]
-line = 2
-column = 1
-name = PILLAR_LEFT_BLUE_HIGH.scex
-title = BLUE LEFT
-color = 275199
-[page2_button3]
-line = 3
-column = 1
-name = PILLAR_LEFT_GREEN_HIGH.scex
-title = GREEN LEFT
-color = 63744
-[page2_button4]
-line = 4
-column = 1
-name = PILLAR_LEFT_ORANGE_HIGH.scex
-title = ORANGE LEFT
-color = 16749056
-[page2_button5]
-line = 5
-column = 1
-name = PILLAR_LEFT_PURPLE_HIGH.scex
-title = PURPLE LEFT
-color = 9642130
-[page2_button6]
-line = 6
-column = 1
-name = PILLAR_LEFT_RED_HIGH.scex
-title = RED LEFT
-color = 16721408
-[page2_button7]
-line = 7
-column = 1
-name = PILLAR_LEFT_WHITE_HIGH.scex
-title = WHITE LEFT
-color = 16711679
-[page2_button8]
-line = 8
-column = 1
-name = PILLAR_LEFT_YELLOW_HIGH.scex
-title = YELLOW LEFT
-color = 16710400
-[page3]
-name = LEFT-CENTER
-swap = yes
-nb_buttons = 8
-[page3_button1]
-line = 1
-column = 1
-name = PILLAR_LEFT-CENTER_AQUA_HIGH.scex
-title = AQUA LEFT-CENTER
-color = 64767
-[page3_button2]
-line = 2
-column = 1
-name = PILLAR_LEFT-CENTER_BLUE_HIGH.scex
-title = BLUE LEFT-CENTER
-color = 275199
-[page3_button3]
-line = 3
-column = 1
-name = PILLAR_LEFT-CENTER_GREEN_HIGH.scex
-title = GREEN LEFT-CENTER
-color = 63744
-[page3_button4]
-line = 4
-column = 1
-name = PILLAR_LEFT-CENTER_ORANGE_HIGH.scex
-title = ORANGE LEFT-CENTER
-color = 16749056
-[page3_button5]
-line = 5
-column = 1
-name = PILLAR_LEFT-CENTER_PURPLE_HIGH.scex
-title = PURPLE LEFT-CENTER
-color = 9642130
-[page3_button6]
-line = 6
-column = 1
-name = PILLAR_LEFT-CENTER_RED_HIGH.scex
-title = RED LEFT-CENTER
-color = 16721408
-[page3_button7]
-line = 7
-column = 1
-name = PILLAR_LEFT-CENTER_WHITE_HIGH.scex
-title = WHITE LEFT-CENTER
-color = 16711679
-[page3_button8]
-line = 8
-column = 1
-name = PILLAR_LEFT-CENTER_YELLOW_HIGH.scex
-title = YELLOW LEFT-CENTER
-color = 16710400
-[page4]
-name = MACROS
-swap = yes
-nb_buttons = 8
-[page4_button1]
 line = 6
 column = 1
 name = Red.mac
@@ -137,7 +33,7 @@ color = 16721408
 speed = auto_bpm
 beats = 0
 macro = RED RIGHT|RED LEFT|RED RIGHT-CENTER|RED LEFT-CENTER|
-[page4_button2]
+[page2_button2]
 line = 1
 column = 1
 name = Aqua.mac
@@ -146,7 +42,7 @@ color = 64767
 speed = auto_bpm
 beats = 0
 macro = AQUA RIGHT|AQUA LEFT|AQUA RIGHT-CENTER|AQUA LEFT-CENTER|
-[page4_button3]
+[page2_button3]
 line = 2
 column = 1
 name = Blue.mac
@@ -155,7 +51,7 @@ color = 275199
 speed = auto_bpm
 beats = 0
 macro = BLUE RIGHT|BLUE LEFT|BLUE RIGHT-CENTER|BLUE LEFT-CENTER|
-[page4_button4]
+[page2_button4]
 line = 3
 column = 1
 name = Green.mac
@@ -164,7 +60,7 @@ color = 63744
 speed = auto_bpm
 beats = 0
 macro = GREEN RIGHT|GREEN LEFT|GREEN RIGHT-CENTER|GREEN LEFT-CENTER|
-[page4_button5]
+[page2_button5]
 line = 4
 column = 1
 name = Orange.mac
@@ -173,7 +69,7 @@ color = 16749056
 speed = auto_bpm
 beats = 0
 macro = ORANGE RIGHT|ORANGE LEFT|ORANGE RIGHT-CENTER|ORANGE LEFT-CENTER|
-[page4_button6]
+[page2_button6]
 line = 5
 column = 1
 name = Purple.mac
@@ -182,7 +78,7 @@ color = 9642130
 speed = auto_bpm
 beats = 0
 macro = PURPLE RIGHT|PURPLE LEFT|PURPLE RIGHT-CENTER|PURPLE LEFT-CENTER|
-[page4_button7]
+[page2_button7]
 line = 7
 column = 1
 name = White.mac
@@ -191,7 +87,7 @@ color = 16711679
 speed = auto_bpm
 beats = 0
 macro = WHITE RIGHT|WHITE LEFT|WHITE RIGHT-CENTER|WHITE LEFT-CENTER|
-[page4_button8]
+[page2_button8]
 line = 8
 column = 1
 name = Yellow.mac
@@ -200,133 +96,342 @@ color = 16710400
 speed = auto_bpm
 beats = 0
 macro = YELLOW RIGHT|YELLOW LEFT|YELLOW RIGHT-CENTER|YELLOW LEFT-CENTER|
+[page3]
+name = FLANKS
+nb_buttons = 0
+[page4]
+name = LEFT
+swap = yes
+nb_buttons = 8
+[page4_button1]
+line = 1
+column = 1
+name = PILLAR_LEFT_AQUA_HIGH.scex
+title = AQUA LEFT
+color = 64767
+[page4_button2]
+line = 2
+column = 1
+name = PILLAR_LEFT_BLUE_HIGH.scex
+title = BLUE LEFT
+color = 275199
+[page4_button3]
+line = 3
+column = 1
+name = PILLAR_LEFT_GREEN_HIGH.scex
+title = GREEN LEFT
+color = 63744
+[page4_button4]
+line = 4
+column = 1
+name = PILLAR_LEFT_ORANGE_HIGH.scex
+title = ORANGE LEFT
+color = 16749056
+[page4_button5]
+line = 5
+column = 1
+name = PILLAR_LEFT_PURPLE_HIGH.scex
+title = PURPLE LEFT
+color = 9642130
+[page4_button6]
+line = 6
+column = 1
+name = PILLAR_LEFT_RED_HIGH.scex
+title = RED LEFT
+color = 16721408
+[page4_button7]
+line = 7
+column = 1
+name = PILLAR_LEFT_WHITE_HIGH.scex
+title = WHITE LEFT
+color = 16711679
+[page4_button8]
+line = 8
+column = 1
+name = PILLAR_LEFT_YELLOW_HIGH.scex
+title = YELLOW LEFT
+color = 16710400
 [page5]
-name = RIGHT
+name = LEFT-CENTER
 swap = yes
 nb_buttons = 8
 [page5_button1]
 line = 1
 column = 1
+name = PILLAR_LEFT-CENTER_AQUA_HIGH.scex
+title = AQUA LEFT-CENTER
+color = 64767
+[page5_button2]
+line = 2
+column = 1
+name = PILLAR_LEFT-CENTER_BLUE_HIGH.scex
+title = BLUE LEFT-CENTER
+color = 275199
+[page5_button3]
+line = 3
+column = 1
+name = PILLAR_LEFT-CENTER_GREEN_HIGH.scex
+title = GREEN LEFT-CENTER
+color = 63744
+[page5_button4]
+line = 4
+column = 1
+name = PILLAR_LEFT-CENTER_ORANGE_HIGH.scex
+title = ORANGE LEFT-CENTER
+color = 16749056
+[page5_button5]
+line = 5
+column = 1
+name = PILLAR_LEFT-CENTER_PURPLE_HIGH.scex
+title = PURPLE LEFT-CENTER
+color = 9642130
+[page5_button6]
+line = 6
+column = 1
+name = PILLAR_LEFT-CENTER_RED_HIGH.scex
+title = RED LEFT-CENTER
+color = 16721408
+[page5_button7]
+line = 7
+column = 1
+name = PILLAR_LEFT-CENTER_WHITE_HIGH.scex
+title = WHITE LEFT-CENTER
+color = 16711679
+[page5_button8]
+line = 8
+column = 1
+name = PILLAR_LEFT-CENTER_YELLOW_HIGH.scex
+title = YELLOW LEFT-CENTER
+color = 16710400
+[page6]
+name = OTHER MACROS
+nb_buttons = 1
+[page6_button1]
+line = 1
+column = 1
+name = BLIND.mac
+title = BLIND
+speed = auto_bpm
+beats = 0
+macro = WHITE RIGHT|WHITE LEFT|WHITE RIGHT-CENTER|WHITE LEFT-CENTER|BLINDER_LEFT_HIGH|BLINDER_RIGHT_HIGH|
+[page7]
+name = RIGHT
+swap = yes
+nb_buttons = 8
+[page7_button1]
+line = 1
+column = 1
 name = PILLAR_RIGHT_AQUA_HIGH.scex
 title = AQUA RIGHT
 color = 64767
-[page5_button2]
+[page7_button2]
 line = 2
 column = 1
 name = PILLAR_RIGHT_BLUE_HIGH.scex
 title = BLUE RIGHT
 color = 275199
-[page5_button3]
+[page7_button3]
 line = 3
 column = 1
 name = PILLAR_RIGHT_GREEN_HIGH.scex
 title = GREEN RIGHT
 color = 63744
-[page5_button4]
+[page7_button4]
 line = 4
 column = 1
 name = PILLAR_RIGHT_ORANGE_HIGH.scex
 title = ORANGE RIGHT
 color = 16749056
-[page5_button5]
+[page7_button5]
 line = 5
 column = 1
 name = PILLAR_RIGHT_PURPLE_HIGH.scex
 title = PURPLE RIGHT
 color = 9642130
-[page5_button6]
+[page7_button6]
 line = 6
 column = 1
 name = PILLAR_RIGHT_RED_HIGH.scex
 title = RED RIGHT
 color = 16721408
-[page5_button7]
+[page7_button7]
 line = 7
 column = 1
 name = PILLAR_RIGHT_WHITE_HIGH.scex
 title = WHITE RIGHT
 color = 16711679
-[page5_button8]
+[page7_button8]
 line = 8
 column = 1
 name = PILLAR_RIGHT_YELLOW_HIGH.scex
 title = YELLOW RIGHT
 color = 16710400
-[page6]
+[page8]
 name = RIGHT-CENTER
 swap = yes
 nb_buttons = 8
-[page6_button1]
+[page8_button1]
 line = 1
 column = 1
 name = PILLAR_RIGHT-CENTER_AQUA_HIGH.scex
 title = AQUA RIGHT-CENTER
 color = 64767
-[page6_button2]
+[page8_button2]
 line = 2
 column = 1
 name = PILLAR_RIGHT-CENTER_BLUE_HIGH.scex
 title = BLUE RIGHT-CENTER
 color = 275199
-[page6_button3]
+[page8_button3]
 line = 3
 column = 1
 name = PILLAR_RIGHT-CENTER_GREEN_HIGH.scex
 title = GREEN RIGHT-CENTER
 color = 63744
-[page6_button4]
+[page8_button4]
 line = 4
 column = 1
 name = PILLAR_RIGHT-CENTER_ORANGE_HIGH.scex
 title = ORANGE RIGHT-CENTER
 color = 16749056
-[page6_button5]
+[page8_button5]
 line = 5
 column = 1
 name = PILLAR_RIGHT-CENTER_PURPLE_HIGH.scex
 title = PURPLE RIGHT-CENTER
 color = 9642130
-[page6_button6]
+[page8_button6]
 line = 6
 column = 1
 name = PILLAR_RIGHT-CENTER_RED_HIGH.scex
 title = RED RIGHT-CENTER
 color = 16721408
-[page6_button7]
+[page8_button7]
 line = 7
 column = 1
 name = PILLAR_RIGHT-CENTER_WHITE_HIGH.scex
 title = WHITE RIGHT-CENTER
 color = 16777215
-[page6_button8]
+[page8_button8]
 line = 8
 column = 1
 name = PILLAR_RIGHT-CENTER_YELLOW_HIGH.scex
 title = YELLOW RIGHT-CENTER
 color = 16710400
+[page9]
+name = UPCASTS
+nb_buttons = 14
+[page9_button1]
+line = 1
+column = 1
+name = UPCAST_RIGHT_AQUA_HIGH.scex
+title = UPCAST RIGHT AQUA
+[page9_button2]
+line = 2
+column = 1
+name = UPCAST_RIGHT_BLUE_HIGH.scex
+title = UPCAST RIGHT BLUE
+[page9_button3]
+line = 3
+column = 1
+name = UPCAST_RIGHT_GREEN_HIGH.scex
+title = UPCAST RIGHT GREEN
+[page9_button4]
+line = 4
+column = 1
+name = UPCAST_RIGHT_PURPLE_HIGH.scex
+title = UPCAST RIGHT PURPLE
+[page9_button5]
+line = 5
+column = 1
+name = UPCAST_RIGHT_RED_HIGH.scex
+title = UPCAST RIGHT RED
+[page9_button6]
+line = 6
+column = 1
+name = UPCAST_RIGHT_WHITE_HIGH.scex
+title = UPCAST RIGHT WHITE
+[page9_button7]
+line = 7
+column = 1
+name = UPCAST_RIGHT_YELLOW_HIGH.scex
+title = UPCAST RIGHT YELLOW
+[page9_button8]
+line = 1
+column = 2
+name = UPCAST_LEFT_AQUA_HIGH.scex
+title = UPCAST LEFT AQUA
+[page9_button9]
+line = 2
+column = 2
+name = UPCAST_LEFT_BLUE_HIGH.scex
+title = UPCAST LEFT BLUE
+[page9_button10]
+line = 3
+column = 2
+name = UPCAST_LEFT_GREEN_HIGH.scex
+title = UPCAST LEFT GREEN
+[page9_button11]
+line = 4
+column = 2
+name = UPCAST_LEFT_PURPLE_HIGH.scex
+title = UPCAST LEFT PURPLE
+[page9_button12]
+line = 5
+column = 2
+name = UPCAST_LEFT_RED_HIGH.scex
+title = UPCAST LEFT RED
+[page9_button13]
+line = 6
+column = 2
+name = UPCAST_LEFT_WHITE_HIGH.scex
+title = UPCAST LEFT WHITE
+[page9_button14]
+line = 7
+column = 2
+name = UPCAST_LEFT_YELLOW_HIGH.scex
+title = UPCAST LEFT YELLOW
+[page10]
+name = WASHES
+nb_buttons = 0
 [board]
-number = 6
+number = 10
 [board1]
 screen = 0
-page = 5
+page = 7
 [board2]
 screen = 0
-page = 2
+page = 4
 [board3]
 screen = 0
-page = 6
+page = 8
 [board4]
 screen = 0
-page = 3
+page = 5
 [board5]
 screen = 1
-page = 4
+page = 1
 [board6]
 screen = 1
-page = 1
+page = 3
+[board7]
+screen = 1
+page = 10
+[board8]
+screen = 1
+page = 9
+[board9]
+screen = 2
+page = 2
+[board10]
+screen = 2
+page = 6
 [screen0]
 title = PILLARS
 window = no
 [screen1]
-title = MISC
+title = OTHER LIGHTS
+window = no
+[screen2]
+title = MACROS
 window = no
