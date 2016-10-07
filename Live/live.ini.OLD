@@ -1,0 +1,116 @@
+﻿
+[Params]
+ActiveTab = 0
+MMFilesPath = /Users/kpowers/Desktop/Tracks/
+[live]
+dmx_on = yes
+fade_time = 300
+[page]
+number = 4
+[page1]
+name = LEFT
+swap = yes
+nb_buttons = 10
+[page1_button1]
+line = 1
+column = 1
+name = PILLAR_LEFT_AQUA_HIGH.scex
+title = AQUA HIGH
+[page1_button2]
+line = 2
+column = 1
+name = PILLAR_LEFT_BLUE_HIGH.scex
+title = BLUE HIGH
+[page1_button3]
+line = 3
+column = 1
+name = PILLAR_LEFT_GREEN_HIGH.scex
+title = PILLAR_LEFT_GREEN_HIGH
+[page1_button4]
+line = 4
+column = 1
+name = PILLAR_LEFT_ORANGE_HIGH.scex
+title = PILLAR_LEFT_ORANGE_HIGH
+[page1_button5]
+line = 5
+column = 1
+name = PILLAR_LEFT_PURPLE_HIGH.scex
+title = PILLAR_LEFT_PURPLE_HIGH
+[page1_button6]
+line = 6
+column = 1
+name = PILLAR_LEFT_RED_HIGH.scex
+title = PILLAR_LEFT_RED_HIGH
+[page1_button7]
+line = 7
+column = 1
+name = PILLAR_LEFT_RED_LOW.scex
+title = PILLAR_LEFT_RED_LOW
+[page1_button8]
+line = 8
+column = 1
+name = PILLAR_LEFT_RED_MED.scex
+title = PILLAR_LEFT_RED_MED
+[page1_button9]
+line = 9
+column = 1
+name = PILLAR_LEFT_WHITE_HIGH.scex
+title = PILLAR_LEFT_WHITE_HIGH
+[page1_button10]
+line = 10
+column = 1
+name = PILLAR_LEFT_YELLOW_HIGH.scex
+title = PILLAR_LEFT_YELLOW_HIGH
+[page2]
+name = LEFT-CENTER
+swap = yes
+nb_buttons = 0
+[page3]
+name = RIGHT
+swap = yes
+nb_buttons = 4
+[page3_button1]
+line = 1
+column = 1
+name = PILLAR_RIGHT_AQUA_HIGH.scex
+title = PILLAR_RIGHT_AQUA_HIGH
+color = 65535
+[page3_button2]
+line = 2
+column = 1
+name = PILLAR_RIGHT_BLUE_HIGH.scex
+title = PILLAR_RIGHT_BLUE_HIGH
+color = 255
+[page3_button3]
+line = 3
+column = 1
+name = PILLAR_RIGHT_GREEN_HIGH.scex
+title = PILLAR_RIGHT_GREEN_HIGH
+color = 65280
+[page3_button4]
+line = 4
+column = 1
+name = PILLAR_RIGHT_WHITE_HIGH.scex
+title = PILLAR_RIGHT_WHITE_HIGH
+color = 16777215
+[page4]
+name = RIGHT-CENTER
+swap = yes
+nb_buttons = 0
+[board]
+number = 4
+[board1]
+screen = 0
+page = 3
+[board2]
+screen = 0
+page = 1
+[board3]
+screen = 0
+page = 4
+[board4]
+screen = 0
+page = 2
+[screen0]
+title = PILLARS
+window = no
