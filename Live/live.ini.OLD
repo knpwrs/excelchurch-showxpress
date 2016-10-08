@@ -60,6 +60,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 56
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 macro = RED RIGHT|RED LEFT|RED RIGHT-CENTER|RED LEFT-CENTER|FLANK RIGHT RED|FLANK LEFT RED|UPCAST LEFT RED|UPCAST RIGHT RED|WASH RIGHT RED|WASH LEFT RED|1 Red|2 RED|3 RED|
 [page2_button2]
 line = 6
@@ -79,6 +80,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 61
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 macro = AQUA RIGHT|AQUA LEFT|AQUA RIGHT-CENTER|AQUA LEFT-CENTER|FLANK RIGHT AQUA|FLANK LEFT AQUA|WASH RIGHT AQUA|WASH LEFT AQUA|UPCAST RIGHT AQUA|UPCAST LEFT AQUA|1 Green|1 Blue|2 GREEN|2 BLUE|3 GREEN|3 BLUE|
 [page2_button3]
 line = 3
@@ -98,6 +100,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 58
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 macro = BLUE LEFT|BLUE RIGHT-CENTER|BLUE LEFT-CENTER|FLANK RIGHT BLUE|FLANK LEFT BLUE|WASH RIGHT BLUE|WASH LEFT BLUE|UPCAST RIGHT BLUE|UPCAST LEFT BLUE|1 Blue|2 BLUE|3 BLUE|BLUE RIGHT|
 [page2_button4]
 line = 2
@@ -117,6 +120,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 57
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 macro = GREEN RIGHT|GREEN LEFT|GREEN RIGHT-CENTER|GREEN LEFT-CENTER|FLANK RIGHT GREEN|FLANK LEFT GREEN|WASH RIGHT GREEN|WASH LEFT GREEN|UPCAST RIGHT GREEN|UPCAST LEFT GREEN|1 Green|2 GREEN|3 GREEN|
 [page2_button5]
 line = 4
@@ -136,6 +140,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 59
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 macro = ORANGE RIGHT|ORANGE LEFT|ORANGE RIGHT-CENTER|ORANGE LEFT-CENTER|FLANK RIGHT ORANGE|FLANK LEFT ORANGE|WASH RIGHT ORANGE|WAS LEFT ORANGE|UPCAST RIGHT YELLOW|UPCAST LEFT YELLOW|1 AMBER|2 AMBER|3 AMBER|
 [page2_button6]
 line = 7
@@ -155,6 +160,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 62
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 macro = PURPLE RIGHT|PURPLE LEFT|PURPLE RIGHT-CENTER|PURPLE LEFT-CENTER|FLANK RIGHT PURPLE|FLANK LEFT PURPLE|WASH RIGHT PURPLE|WASH LEFT PURPLE|UPCAST RIGHT PURPLE|UPCAST LEFT PURPLE|1 Red|1 Blue|2 RED|2 BLUE|3 RED|3 BLUE|
 [page2_button7]
 line = 8
@@ -174,6 +180,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 63
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 macro = WHITE RIGHT|WHITE LEFT|WHITE RIGHT-CENTER|WHITE LEFT-CENTER|FLANK RIGHT WHITE|FLANK LEFT WHITE|WASH RIGHT WHITE|WASH LEFT WHITE|UPCAST RIGHT WHITE|UPCAST LEFT WHITE|1 Red|1 Green|1 Blue|2 RED|2 GREEN|2 BLUE|3 RED|3 GREEN|3 BLUE|
 [page2_button8]
 line = 5
@@ -193,6 +200,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 60
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 macro = YELLOW RIGHT|YELLOW LEFT|YELLOW RIGHT-CENTER|YELLOW LEFT-CENTER|FLANK RIGHT YELLOW|FLANK LEFT YELLOW|WASH RIGHT YELLOW|WASH LEFT YELLOW|UPCAST RIGHT YELLOW|UPCAST LEFT YELLOW|1 Red|1 Green|2 GREEN|2 RED|3 RED|3 GREEN|
 [page3]
 name = FLANKS LEFT
@@ -423,6 +431,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 55
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 macro = WHITE RIGHT|WHITE LEFT|WHITE RIGHT-CENTER|WHITE LEFT-CENTER|FLANK RIGHT WHITE|FLANK LEFT WHITE|WASH RIGHT WHITE|WASH LEFT WHITE|UPCAST RIGHT WHITE|UPCAST LEFT WHITE|BLINDER_LEFT_HIGH|BLINDER_RIGHT_HIGH|
 [page8]
 name = RIGHT
