@@ -1,0 +1,663 @@
+﻿
+[Params]
+Version = 0.2
+CommentTimeLine = 0
+LightTimeLines = 4
+MediaTimeLines = 1
+ShowWaveForm = 1
+Zoom = 0
+MaxTime = 0:00:09
+TimeLine_1 = V I D E O   P I C T U R E   T I M E L I N E
+TimeLine_2 = A U D I O   T I M E L I N E
+TimeLine_3 = L I G H T   S C E N E   T I M E L I N E   #   1
+TimeLine_4 = L I G H T   S C E N E   T I M E L I N E   #   2
+TimeLine_5 = L I G H T   S C E N E   T I M E L I N E   #   3
+TimeLine_6 = L I G H T   S C E N E   T I M E L I N E   #   4
+[Event_0]
+TimeLineIndex = 3
+StartTime = 0:00:00.0
+Path = BLINDER_LEFT_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_1]
+TimeLineIndex = 3
+StartTime = 0:00:00.1
+Path = BLINDER_RIGHT_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_2]
+TimeLineIndex = 3
+StartTime = 0:00:00.2
+Path = FLANK_LEFT_AQUA_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_3]
+TimeLineIndex = 3
+StartTime = 0:00:00.3
+Path = FLANK_LEFT_BLUE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_4]
+TimeLineIndex = 3
+StartTime = 0:00:00.4
+Path = FLANK_LEFT_GREEN_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_5]
+TimeLineIndex = 3
+StartTime = 0:00:00.5
+Path = FLANK_LEFT_ORANGE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_6]
+TimeLineIndex = 3
+StartTime = 0:00:00.6
+Path = FLANK_LEFT_PURPLE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_7]
+TimeLineIndex = 3
+StartTime = 0:00:00.7
+Path = FLANK_LEFT_RED_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_8]
+TimeLineIndex = 3
+StartTime = 0:00:00.8
+Path = FLANK_LEFT_WHITE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_9]
+TimeLineIndex = 3
+StartTime = 0:00:00.9
+Path = FLANK_LEFT_YELLOW_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_10]
+TimeLineIndex = 3
+StartTime = 0:00:01.0
+Path = FLANK_RIGHT_AQUA_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_11]
+TimeLineIndex = 3
+StartTime = 0:00:01.1
+Path = FLANK_RIGHT_BLUE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_12]
+TimeLineIndex = 3
+StartTime = 0:00:01.2
+Path = FLANK_RIGHT_GREEN_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_13]
+TimeLineIndex = 3
+StartTime = 0:00:01.3
+Path = FLANK_RIGHT_ORANGE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_14]
+TimeLineIndex = 3
+StartTime = 0:00:01.4
+Path = FLANK_RIGHT_PURPLE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_15]
+TimeLineIndex = 3
+StartTime = 0:00:01.5
+Path = FLANK_RIGHT_RED_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_16]
+TimeLineIndex = 3
+StartTime = 0:00:01.6
+Path = FLANK_RIGHT_WHITE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_17]
+TimeLineIndex = 3
+StartTime = 0:00:01.7
+Path = FLANK_RIGHT_YELLOW_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_18]
+TimeLineIndex = 3
+StartTime = 0:00:01.8
+Path = PILLAR_LEFT_AQUA_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_19]
+TimeLineIndex = 3
+StartTime = 0:00:01.9
+Path = PILLAR_LEFT_BLUE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_20]
+TimeLineIndex = 3
+StartTime = 0:00:02.0
+Path = PILLAR_LEFT_GREEN_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_21]
+TimeLineIndex = 3
+StartTime = 0:00:02.1
+Path = PILLAR_LEFT_ORANGE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_22]
+TimeLineIndex = 3
+StartTime = 0:00:02.2
+Path = PILLAR_LEFT_PURPLE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_23]
+TimeLineIndex = 3
+StartTime = 0:00:02.3
+Path = PILLAR_LEFT_RED_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_24]
+TimeLineIndex = 3
+StartTime = 0:00:02.4
+Path = PILLAR_LEFT_WHITE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_25]
+TimeLineIndex = 3
+StartTime = 0:00:02.5
+Path = PILLAR_LEFT_YELLOW_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_26]
+TimeLineIndex = 3
+StartTime = 0:00:02.6
+Path = PILLAR_LEFT-CENTER_AQUA_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_27]
+TimeLineIndex = 3
+StartTime = 0:00:02.7
+Path = PILLAR_LEFT-CENTER_BLUE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_28]
+TimeLineIndex = 3
+StartTime = 0:00:02.8
+Path = PILLAR_LEFT-CENTER_GREEN_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_29]
+TimeLineIndex = 3
+StartTime = 0:00:02.9
+Path = PILLAR_LEFT-CENTER_ORANGE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_30]
+TimeLineIndex = 3
+StartTime = 0:00:03.0
+Path = PILLAR_LEFT-CENTER_PURPLE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_31]
+TimeLineIndex = 3
+StartTime = 0:00:03.1
+Path = PILLAR_LEFT-CENTER_RED_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_32]
+TimeLineIndex = 3
+StartTime = 0:00:03.2
+Path = PILLAR_LEFT-CENTER_WHITE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_33]
+TimeLineIndex = 3
+StartTime = 0:00:03.3
+Path = PILLAR_LEFT-CENTER_YELLOW_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_34]
+TimeLineIndex = 3
+StartTime = 0:00:03.4
+Path = PILLAR_RIGHT_AQUA_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_35]
+TimeLineIndex = 3
+StartTime = 0:00:03.5
+Path = PILLAR_RIGHT_BLUE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_36]
+TimeLineIndex = 3
+StartTime = 0:00:03.6
+Path = PILLAR_RIGHT_GREEN_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_37]
+TimeLineIndex = 3
+StartTime = 0:00:03.7
+Path = PILLAR_RIGHT_ORANGE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_38]
+TimeLineIndex = 3
+StartTime = 0:00:03.8
+Path = PILLAR_RIGHT_PURPLE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_39]
+TimeLineIndex = 3
+StartTime = 0:00:03.9
+Path = PILLAR_RIGHT_RED_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_40]
+TimeLineIndex = 3
+StartTime = 0:00:04.0
+Path = PILLAR_RIGHT_WHITE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_41]
+TimeLineIndex = 3
+StartTime = 0:00:04.1
+Path = PILLAR_RIGHT_YELLOW_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_42]
+TimeLineIndex = 3
+StartTime = 0:00:04.2
+Path = PILLAR_RIGHT-CENTER_AQUA_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_43]
+TimeLineIndex = 3
+StartTime = 0:00:04.3
+Path = PILLAR_RIGHT-CENTER_BLUE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_44]
+TimeLineIndex = 3
+StartTime = 0:00:04.4
+Path = PILLAR_RIGHT-CENTER_GREEN_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_45]
+TimeLineIndex = 3
+StartTime = 0:00:04.5
+Path = PILLAR_RIGHT-CENTER_ORANGE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_46]
+TimeLineIndex = 3
+StartTime = 0:00:04.6
+Path = PILLAR_RIGHT-CENTER_PURPLE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_47]
+TimeLineIndex = 3
+StartTime = 0:00:04.7
+Path = PILLAR_RIGHT-CENTER_RED_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_48]
+TimeLineIndex = 3
+StartTime = 0:00:04.8
+Path = PILLAR_RIGHT-CENTER_WHITE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_49]
+TimeLineIndex = 3
+StartTime = 0:00:04.9
+Path = PILLAR_RIGHT-CENTER_YELLOW_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_50]
+TimeLineIndex = 3
+StartTime = 0:00:05.0
+Path = TRIBEAM_CENTER-1_AMBER.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_51]
+TimeLineIndex = 3
+StartTime = 0:00:05.1
+Path = TRIBEAM_CENTER-1_BLUE.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_52]
+TimeLineIndex = 3
+StartTime = 0:00:05.2
+Path = TRIBEAM_CENTER-1_GREEN.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_53]
+TimeLineIndex = 3
+StartTime = 0:00:05.3
+Path = TRIBEAM_CENTER-1_RED.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_54]
+TimeLineIndex = 3
+StartTime = 0:00:05.4
+Path = TRIBEAM_CENTER-2_AMBER.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_55]
+TimeLineIndex = 3
+StartTime = 0:00:05.5
+Path = TRIBEAM_CENTER-2_BLUE.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_56]
+TimeLineIndex = 3
+StartTime = 0:00:05.6
+Path = TRIBEAM_CENTER-2_GREEN.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_57]
+TimeLineIndex = 3
+StartTime = 0:00:05.7
+Path = TRIBEAM_CENTER-2_RED.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_58]
+TimeLineIndex = 3
+StartTime = 0:00:05.8
+Path = TRIBEAM_CENTER-3_AMBER.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_59]
+TimeLineIndex = 3
+StartTime = 0:00:05.9
+Path = TRIBEAM_CENTER-3_BLUE.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_60]
+TimeLineIndex = 3
+StartTime = 0:00:06.0
+Path = TRIBEAM_CENTER-3_GREEN.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_61]
+TimeLineIndex = 3
+StartTime = 0:00:06.1
+Path = TRIBEAM_CENTER-3_RED.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_62]
+TimeLineIndex = 3
+StartTime = 0:00:06.2
+Path = UPCAST_LEFT_AQUA_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_63]
+TimeLineIndex = 3
+StartTime = 0:00:06.3
+Path = UPCAST_LEFT_BLUE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_64]
+TimeLineIndex = 3
+StartTime = 0:00:06.4
+Path = UPCAST_LEFT_GREEN_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_65]
+TimeLineIndex = 3
+StartTime = 0:00:06.5
+Path = UPCAST_LEFT_PURPLE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_66]
+TimeLineIndex = 3
+StartTime = 0:00:06.6
+Path = UPCAST_LEFT_RED_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_67]
+TimeLineIndex = 3
+StartTime = 0:00:06.7
+Path = UPCAST_LEFT_WHITE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_68]
+TimeLineIndex = 3
+StartTime = 0:00:06.8
+Path = UPCAST_LEFT_YELLOW_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_69]
+TimeLineIndex = 3
+StartTime = 0:00:06.9
+Path = UPCAST_RIGHT_AQUA_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_70]
+TimeLineIndex = 3
+StartTime = 0:00:07.0
+Path = UPCAST_RIGHT_BLUE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_71]
+TimeLineIndex = 3
+StartTime = 0:00:07.1
+Path = UPCAST_RIGHT_GREEN_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_72]
+TimeLineIndex = 3
+StartTime = 0:00:07.2
+Path = UPCAST_RIGHT_PURPLE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_73]
+TimeLineIndex = 3
+StartTime = 0:00:07.3
+Path = UPCAST_RIGHT_RED_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_74]
+TimeLineIndex = 3
+StartTime = 0:00:07.4
+Path = UPCAST_RIGHT_WHITE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_75]
+TimeLineIndex = 3
+StartTime = 0:00:07.5
+Path = UPCAST_RIGHT_YELLOW_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_76]
+TimeLineIndex = 3
+StartTime = 0:00:07.6
+Path = WASH_LEFT_AQUA_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_77]
+TimeLineIndex = 3
+StartTime = 0:00:07.7
+Path = WASH_LEFT_BLUE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_78]
+TimeLineIndex = 3
+StartTime = 0:00:07.8
+Path = WASH_LEFT_GREEN_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_79]
+TimeLineIndex = 3
+StartTime = 0:00:07.9
+Path = WASH_LEFT_ORANGE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_80]
+TimeLineIndex = 3
+StartTime = 0:00:08.0
+Path = WASH_LEFT_PURPLE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_81]
+TimeLineIndex = 3
+StartTime = 0:00:08.1
+Path = WASH_LEFT_RED_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_82]
+TimeLineIndex = 3
+StartTime = 0:00:08.2
+Path = WASH_LEFT_WHITE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_83]
+TimeLineIndex = 3
+StartTime = 0:00:08.3
+Path = WASH_LEFT_YELLOW_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_84]
+TimeLineIndex = 3
+StartTime = 0:00:08.4
+Path = WASH_RIGHT_AQUA_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_85]
+TimeLineIndex = 3
+StartTime = 0:00:08.5
+Path = WASH_RIGHT_BLUE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_86]
+TimeLineIndex = 3
+StartTime = 0:00:08.6
+Path = WASH_RIGHT_GREEN_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_87]
+TimeLineIndex = 3
+StartTime = 0:00:08.7
+Path = WASH_RIGHT_ORANGE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_88]
+TimeLineIndex = 3
+StartTime = 0:00:08.8
+Path = WASH_RIGHT_PURPLE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_89]
+TimeLineIndex = 3
+StartTime = 0:00:08.9
+Path = WASH_RIGHT_RED_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_90]
+TimeLineIndex = 3
+StartTime = 0:00:09.0
+Path = WASH_RIGHT_WHITE_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_91]
+TimeLineIndex = 3
+StartTime = 0:00:09.1
+Path = WASH_RIGHT_YELLOW_HIGH.scex
+Length = 0:00:05.0
+Speed = 100
+SpeedType = 2
+[Event_92]
+TimeLineIndex = 3
+StartTime = 0:00:09.2
+Path = OFF
