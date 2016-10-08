@@ -667,6 +667,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 16
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button2]
 line = 1
 column = 2
@@ -684,6 +685,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 17
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button3]
 line = 1
 column = 3
@@ -701,6 +703,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 18
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button4]
 line = 1
 column = 4
@@ -718,6 +721,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 19
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button5]
 line = 1
 column = 5
@@ -735,6 +739,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 20
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button6]
 line = 1
 column = 6
@@ -752,6 +757,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 21
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button7]
 line = 1
 column = 7
@@ -769,6 +775,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 22
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button8]
 line = 1
 column = 8
@@ -786,6 +793,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 23
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button9]
 line = 2
 column = 1
@@ -803,6 +811,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 8
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button10]
 line = 3
 column = 1
@@ -820,6 +829,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 0
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button11]
 line = 2
 column = 2
@@ -837,6 +847,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 9
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button12]
 line = 2
 column = 3
@@ -854,6 +865,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 10
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button13]
 line = 2
 column = 4
@@ -871,6 +883,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 11
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button14]
 line = 2
 column = 5
@@ -888,6 +901,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 12
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button15]
 line = 2
 column = 6
@@ -905,6 +919,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 13
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button16]
 line = 2
 column = 7
@@ -922,6 +937,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 14
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button17]
 line = 2
 column = 8
@@ -939,6 +955,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 15
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button18]
 line = 3
 column = 2
@@ -956,6 +973,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 1
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button19]
 line = 3
 column = 3
@@ -973,6 +991,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 2
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button20]
 line = 3
 column = 4
@@ -990,6 +1009,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 3
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button21]
 line = 3
 column = 5
@@ -1007,6 +1027,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 4
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button22]
 line = 3
 column = 6
@@ -1024,6 +1045,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 5
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button23]
 line = 3
 column = 7
@@ -1041,6 +1063,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 6
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button24]
 line = 3
 column = 8
@@ -1058,6 +1081,7 @@ trigger_midiout_type = 0
 trigger_midiout_note = 7
 trigger_midiout_data = 3
 trigger_midiout_data_off = 0
+release_all = yes
 [page11_button25]
 line = 1
 column = 9
@@ -1069,6 +1093,7 @@ trigger_midi_device = 0
 trigger_midi_channel = 1
 trigger_midi_type = 0
 trigger_midi_note = 98
+release_all = yes
 macro = ORANGE RIGHT|ORANGE LEFT|ORANGE RIGHT-CENTER|ORANGE LEFT-CENTER|FLANK RIGHT ORANGE|FLANK LEFT ORANGE|WASH RIGHT ORANGE|WAS LEFT ORANGE|UPCAST RIGHT YELLOW|UPCAST LEFT YELLOW|1 AMBER|2 AMBER|3 AMBER|
 [page12]
 name = TIMELINES
